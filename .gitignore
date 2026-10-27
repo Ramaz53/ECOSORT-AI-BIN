@@ -4,3 +4,5 @@ ai-model/dataset/
 venv/
 __pycache__/
 runs/
+
+yolov8n-cls.pt
